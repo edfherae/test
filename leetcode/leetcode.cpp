@@ -14,4 +14,5 @@ int main()
             cout << array2[j] << "\t";
         }
     }
+    //sdg
 }
